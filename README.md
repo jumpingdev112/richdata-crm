@@ -185,20 +185,6 @@ For Vercel deployment, the project includes Next.js configuration for compatibil
 3. Ensure linting passes: `pnpm lint`
 4. Submit a pull request
 
-## 📝 License
-
-This project is private and proprietary.
-
-## 🔮 Future Enhancements
-
-- [ ] Backend API integration
-- [ ] Real-time notifications
-- [ ] Advanced search and filtering
-- [ ] Data export functionality
-- [ ] Multi-user support
-- [ ] Activity logging and audit trails
-- [ ] Integration with third-party services
-
 ---
 
 Built with ❤️ using Nuxt.js and Vue 3
