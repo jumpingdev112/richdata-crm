@@ -1,0 +1,6 @@
+export { useUIStore } from "~/layers/shared-ui/stores/ui"
+export { useInboxStore } from "~/layers/inbox/stores/inbox"
+export { useTaskStore } from "~/layers/task/stores/task"
+export { useContactsStore } from "~/layers/contacts/stores/contacts"
+export { useDocumentStore } from "~/layers/document/stores/document"
+export { useSettingsStore } from "~/layers/settings/stores/settings"
